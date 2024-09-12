@@ -1,0 +1,21 @@
+header {
+    background-color: whitesmoke;
+    height: 100px;
+}
+
+nav {
+    background-color: whitesmoke;
+}
+
+/* div {
+    background-color: green;
+} */
+
+aside {
+    background-color: whitesmoke;
+}
+
+footer {
+    background-color: #333;
+    color: whitesmoke;
+}
